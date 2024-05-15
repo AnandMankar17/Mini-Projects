@@ -1,0 +1,39 @@
+body{
+    text-align: center;
+}
+main{
+    display: flex;
+    justify-content:center ;
+    align-items: center;
+    flex-direction: column;
+} 
+.container{
+    height: 390px;
+    width: 390px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.btn{
+    height: 120px;
+    width: 120px;
+    margin: 5px;
+    border-radius: 5px;
+    border-color: rgb(249, 188, 144);
+    font-size: 80px;
+    background-color: aquamarine;
+    color: orange;
+    
+}
+.newbtn{
+    width: 50px;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.p1{
+    color: rgb(21, 217, 93);
+    font-size: 30px;
+}

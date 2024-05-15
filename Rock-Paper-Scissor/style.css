@@ -1,0 +1,52 @@
+main{
+    height: 70vh;
+    width: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.innerdiv{
+    height: 150px;
+    width: 150px;
+    background-color: aquamarine;
+    margin: 5px;
+    border-radius: 10px;
+    border: 2px solid orange;
+    background-size: cover;
+}
+.border:hover{
+    border: 2px solid black;
+}
+.outer{
+    height: 200px;
+    width: 500px;
+    display: flex;
+    justify-content:center;
+    flex-wrap: wrap;
+    
+
+}
+#rock{
+    background-image: url(rock.png);
+}
+
+#paper{
+    background-image: url(paper.jpeg);
+}
+#scissor{
+    background-image: url(scissor.jpeg);
+}
+
+.result{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height:70px;
+    width:400px;
+    background-color: aquamarine;
+    font-size: 20px;
+    border: 2px solid orange;
+
+}

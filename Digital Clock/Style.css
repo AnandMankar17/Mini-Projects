@@ -1,0 +1,27 @@
+.outer{
+    height: 400px;
+    width: 400px;
+    background-color: antiquewhite;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    
+
+    border-radius: 30px;
+    
+    
+}
+.clock{
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    background-color: orange;
+    display: flex;
+    justify-content: center;
+    align-items:center;
+}
+body{
+    display: flex;
+    justify-content: center;
+}

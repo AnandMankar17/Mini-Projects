@@ -1,0 +1,25 @@
+div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: black
+}
+.button{
+    width: 100px;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    margin: 5px;
+}
+#green{
+    background-color: green;
+}
+#red{
+    background-color: red;
+}
+#yellow{
+    background-color: yellow;
+}
+#pink{
+    background-color: pink;
+}

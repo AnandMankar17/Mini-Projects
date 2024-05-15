@@ -1,0 +1,13 @@
+body{
+    text-align: center;
+}
+button{
+    height: 50px;
+    width: 75px;
+}
+#stop{
+    background-color: rgb(250, 111, 111,0.5);
+}
+#start{
+    background-color: rgb(50, 235, 50,0.5);
+}
