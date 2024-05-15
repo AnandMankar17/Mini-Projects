@@ -1,23 +1,23 @@
 A basic digital clock web application built with HTML, CSS, and JavaScript.
 
-Description
+Description<br>
 This project is a simple digital clock that displays the current time in hours, minutes, and seconds. It provides a straightforward user interface for users to view the time in real-time.
 
-Features
-Displays the current time in hours, minutes, and seconds.
-Updates in real-time to reflect the accurate time.
-Clear and minimalist design for easy readability.
+Features:<br>
+Displays the current time in hours, minutes, and seconds.<br>
+Updates in real-time to reflect the accurate time.<br>
+Clear and minimalist design for easy readability.<br>
 Usage
-To use the Simple Digital Clock:
+To use the Simple Digital Clock:<br>
 
-Clone the repository to your local machine.
-Open index.html in your web browser.
-The digital clock will automatically start displaying the current time.
+Clone the repository to your local machine.<br>
+Open index.html in your web browser.<br>
+The digital clock will automatically start displaying the current time.<br>
 
-Technologies Used:
-HTML
-CSS
-JavaScript
+Technologies Used:<br>
+HTML<br>
+CSS<br>
+JavaScript<br>
 
-Credits:
+Credits:<br>
 This project was created by 'Anand Mankar'.

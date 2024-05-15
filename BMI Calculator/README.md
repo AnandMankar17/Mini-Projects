@@ -5,23 +5,21 @@ This project is a basic web application that allows users to calculate their BMI
 
 To use the BMI calculator:
 
-Clone the repository to your local machine.
-Open index.html in your web browser.
-Enter your weight (in kilograms) and height (in meters).
-Click the "Calculate" button to see your BMI and BMI category.
-Screenshots
+Clone the repository to your local machine.<br>
+Open index.html in your web browser.<br>
+Enter your weight (in kilograms) and height (in meters).<br>
+Click the "Calculate" button to see your BMI and BMI category.<br>
 
-Technologies Used
-HTML
-CSS
-JavaScript
+Technologies Used<br>
+HTML<br>
+CSS<br>
+JavaScript<br>
 
-Credits
-This project was created by 'Anand Mankar'.
+Credits<br>
+This project was created by 'Anand Mankar'.<br>
 
-Features
-User-friendly interface.
-Real-time BMI calculation.
-Clear indication of BMI category (underweight, normal weight, overweight, or obese).
-Responsive design for mobile and desktop devices.
-Usage
+Features<br>
+User-friendly interface.<br>
+Real-time BMI calculation.<br>
+Clear indication of BMI category (underweight, normal weight, overweight, or obese).<br>
+Responsive design for mobile and desktop devices.<br>
